@@ -4,3 +4,7 @@ Capturez et enfermez dans la maison de la sorcière, seule une potion magique vo
 # Commandes
 - Utilisez les portails verts et la gachette pour vous téléporter à travers la maison de la sorcière et chercher les indices pour vous échapper
 - Avec la même gachette, attrappez les différents objets qui pourraient vous aider
+- Le jeu se joue seulement avec la manette droite
+
+# Indications
+- Commencer la partie avec la scene "Menu"
