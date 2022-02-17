@@ -8,3 +8,4 @@ Capturez et enfermez dans la maison de la sorcière, seule une potion magique vo
 
 # Indications
 - Commencer la partie avec la scene "Menu"
+- Dans la scene "WitchHut", il y a une modification à faire dans l'objet "HandInteractionManager" (qui gère tout le jeux, pas juste les mains...), un script y est attaché: il faut modifier le champ "Time Left" avec la valeur 360 :) Sinon vous aurez 5 secondes avant le Game Over...
